@@ -1,0 +1,7 @@
+config:
+  host:
+    - name: test
+      server: test.com
+      port: 2022
+      
+  comment: Perfect
