@@ -1,0 +1,8 @@
+config:
+  host: 
+    - name: test
+      server: test.com
+      port: 1022
+  comment:
+    - test is good
+    - perfect
